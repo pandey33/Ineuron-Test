@@ -1,4 +1,3 @@
-# Ineuron-Test
-Python session
+# Python Assignment 1
 
-This is the first class of python, wherein learning Github + python
+This is the first Assignment of python
